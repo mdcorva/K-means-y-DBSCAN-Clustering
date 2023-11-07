@@ -11,7 +11,7 @@
 ## Proyecto: 
 Aplicación de los métodos de Clustering K-Means y DBSCAN. 
 Es un caso de estudio que compara los resultados de estos dos algoritmos. 
-Se optimizan los algoritmos utilizando el método del codo y de Silhoutte. Finalmente de observan los clusters y se realiza un análisis de los resultados. 
+Se optimizan los algoritmos utilizando el método del codo y de Silhoutte. Finalmente se observan los clusters y se realiza un análisis de los resultados. 
 
 ### Origen del Dataset:
 El dataset se descargó de la página de Kaggle. 
